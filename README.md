@@ -102,7 +102,3 @@ The user can still override per-finding.
 | `.claude/skills/bb-report-forge/reference/intake-auto-evaluate.md` | Filename/extension/content rules used to classify `bb-inputs/` files |
 | `.claude/skills/bb-report-forge/scripts/scan_inputs.py` | Pure-stdlib Python — runs the auto-evaluator, writes `bb-inputs/manifest.json` |
 | `.claude/skills/bb-report-forge/examples/worked-example/` | Two fabricated findings: one ready, one downgraded |
-
-## License
-
-Not specified. Add `LICENSE` (MIT recommended) before publishing.
