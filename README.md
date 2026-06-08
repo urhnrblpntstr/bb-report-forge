@@ -1,4 +1,4 @@
-# bb-report-forge — portable bundle
+# bb-report-forge
 
 A 3-agent bug-bounty report quality loop. Drops into any Claude Code project.
 
